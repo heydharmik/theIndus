@@ -3,3 +3,10 @@ font-family: 'Ubuntu', sans-serif;
 font-size: 2em;
 font-weight: bold;
 }
+
+.navbar-text{
+    overflow: visible;
+    white-space: nowrap;
+    margin-right: 110px;
+}
+
