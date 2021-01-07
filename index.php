@@ -19,6 +19,9 @@
     <title>theIndus</title>
 </head>
 <body>
-    
+    <!-- Start Navigation -->
+    <nav class="navbar navbar-expand-sm navbar-dark bg-primary pl-5 fixed-top">
+        
+    </nav>  <!-- End Navigation -->
 </body>
 </html>
