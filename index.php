@@ -8,6 +8,9 @@
 
     <!-- FontAwesome CSS -->
     <link rel = "stylesheet" href = "css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel = "stylesheet" href = "css/custom.css">
     <title>theIndus</title>
 </head>
 <body>
