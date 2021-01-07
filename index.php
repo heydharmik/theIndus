@@ -11,6 +11,11 @@
 
     <!-- Custom CSS -->
     <link rel = "stylesheet" href = "css/custom.css">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
+
     <title>theIndus</title>
 </head>
 <body>
