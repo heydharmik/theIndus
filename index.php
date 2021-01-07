@@ -22,19 +22,25 @@
     <!-- Start Navigation -->
     <nav class="navbar navbar-expand-sm navbar-dark bg-primary pl-5 fixed-top">
         <a href="index.php" class="navbar-brand">theIndus</a>    
-        <span class="navbar-text">Made in India, <br>Made for India</span>
-        <button type="button" class="navbar-toggler" data-toggle="collapse" date-target="#myMenu">
+        <span class="navbar-text">Made in India, <br>Made for India</span> 
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="myMenu">
-            <ul class="navbar-nav pl-5">
+            <ul class="navbar-nav pl-5 custom-nav">
                 <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="#Services" class="nav-link">Services</a></li>
                 <li class="nav-item"><a href="#Registration" class="nav-link">Registration</a></li>
-                <li class="nav-item"><a href="#Login" class="nav-link">Login</a></li>
+                <li class="nav-item"><a href="Requester/RequesterLogin.php" class="nav-link">Login</a></li>
                 <li class="nav-item"><a href="#Contact" class="nav-link">Contact</a></li>
             </ul>
         </div>
     </nav>  <!-- End Navigation -->
+
+    <!-- JavaScript -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/all.min.js"></script>
 </body>
 </html>
