@@ -21,7 +21,8 @@
 <body>
     <!-- Start Navigation -->
     <nav class="navbar navbar-expand-sm navbar-dark bg-primary pl-5 fixed-top">
-        
+        <a href="index.php" class="navbar-brand">theIndus</a>    
+        <span class="navbar-text">Made in India, Made for India</span>
     </nav>  <!-- End Navigation -->
 </body>
 </html>
