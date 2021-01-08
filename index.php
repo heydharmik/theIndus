@@ -38,7 +38,7 @@
     </nav>  <!-- End Navigation -->
 
     <!-- Start Header Jumbotron -->
-    <header class="jumbotron" style="background-image:url(images/banner1.jpg)">
+    <header class="jumbotron back-image" style="background-image:url(images/banner1.jpg)">
 
 
     </header>
