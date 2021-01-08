@@ -1,12 +1,18 @@
+/* Brand Name Font */
 .navbar-brand{
 font-family: 'Ubuntu', sans-serif;
 font-size: 2em;
 font-weight: bold;
 }
 
+/* Give margine after the tagline */
 .navbar-text{
     overflow: visible;
     white-space: nowrap;
     margin-right: 110px;
 }
 
+/* Change Navigation color  */
+.navbar #myMenu .custom-nav .nav-item a{
+    color: #ffffff;
+}
