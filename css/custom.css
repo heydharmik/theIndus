@@ -14,5 +14,9 @@ font-weight: bold;
 
 /* Change Navigation color  */
 .navbar #myMenu .custom-nav .nav-item a{
-    color: #fff;
+    color: #FFFFFF;
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover{
+    color: #F0AAB1;
 }
