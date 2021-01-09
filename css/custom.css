@@ -30,3 +30,13 @@ font-weight: bold;
     border-radius: 0px;
     margin-top: 80px;
 }
+
+/* Header Image Sub-Title */
+.headercls{
+    font-size: 22px;
+}
+
+/* Margin for Welcome to TheIndus */
+.mainHeading{
+    margin-top: 125px;
+}

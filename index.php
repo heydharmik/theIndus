@@ -39,7 +39,12 @@
 
     <!-- Start Header Jumbotron -->
     <header class="jumbotron back-image" style="background-image:url(images/banner1.jpg)">
-
+    <div class="mainHeading">
+        <h1 class="text-uppercase text-primary"><b>Welcome to theIndus</b></h1>
+        <p class="headercls"><i>Made in India, Made for India</i> </p>
+        <a href="#" class="btn btn-success mr-4">Login</a>
+        <a href="#" class="btn btn-primary mr-4">Sign Up</a>
+    </div>
 
     </header>
 
